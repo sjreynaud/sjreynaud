@@ -22,7 +22,7 @@ My focus is specialize in transforming complex healthcare data—especially geno
 When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
       
 ## 🧠 Current Research Projects
 
