@@ -24,18 +24,20 @@ When I'm not immersed in data science and predictive modeling, I find joy in mus
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
       
-## 🧠 Current Research Projects
 
-I'm actively applying predictive modeling and interpretability techniques to advance clinical insights across multiple domains:
+## 🧪 Ongoing Clinical Data Science Projects
 
-- **FSGS Kidney Disease** – Modeling progression and treatment response using genomic and clinical data.
-- **Bipolar Disorder** – Analyzing mood episode patterns and classification models to support psychiatric care.
-- **Schizophrenia** – Exploring symptom clusters and feature importance to improve transparency in mental health analytics.
+I'm currently advancing predictive modeling and interpretability across several high-impact healthcare domains:
 
+- **FSGS Kidney Disease** – Modeling disease progression and treatment response using clinical and genomic data.
+- **Bipolar Disorder** – Analyzing mood episode patterns and classification models to support psychiatric decision-making.
+- **Schizophrenia** – Exploring symptom clusters and model transparency to enhance understanding of disease trajectories.
+- **Prostate Cancer** – Investigating survival outcomes and biomarker significance through end-to-end analytics pipelines.
+- **Colon Cancer** – Applying feature importance and visual storytelling to uncover key drivers of patient outcomes.
 
 ## 🌱 Currently Learning 
 
-##Visual Storytelling & Stakeholder Communication
+Visual Storytelling & Stakeholder Communication
 - Advanced DAX for Power BI clinical dashboards
 - Tableau parameter actions for interactive survival trend exploration
 - Narrative design for grant proposals and clinical presentations
