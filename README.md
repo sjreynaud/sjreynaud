@@ -35,6 +35,11 @@ I'm actively applying predictive modeling and interpretability techniques to adv
 
 ## 🌱 Currently Learning 
 
+## Visual Storytelling & Stakeholder Communication
+- Advanced DAX for Power BI clinical dashboards
+- Tableau parameter actions for interactive survival trend exploration
+- Narrative design for grant proposals and clinical presentations
+
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
