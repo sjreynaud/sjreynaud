@@ -35,13 +35,10 @@ I'm actively applying predictive modeling and interpretability techniques to adv
 
 ## 🌱 Currently Learning 
 
-## Visual Storytelling & Stakeholder Communication
+##Visual Storytelling & Stakeholder Communication
 - Advanced DAX for Power BI clinical dashboards
 - Tableau parameter actions for interactive survival trend exploration
 - Narrative design for grant proposals and clinical presentations
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
 
@@ -62,7 +59,7 @@ I'm actively applying predictive modeling and interpretability techniques to adv
   <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
-#### Clinical Modeling & Interpretability
+#### Healthcare Analytics & Decision Intelligence
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
