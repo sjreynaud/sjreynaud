@@ -1,4 +1,4 @@
-## Hi there, I'm [Sidney] 👋
+## Hey everyone, my name is Sidney 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -57,7 +57,7 @@ I'm actively applying predictive modeling and interpretability techniques to adv
   <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Clinical Modeling & Interpretability
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
