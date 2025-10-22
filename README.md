@@ -19,6 +19,8 @@ I'm a results-driven data scientist passionate about transforming raw data into 
 
 My focus is specialize in transforming complex healthcare data especially genomic and clinical datasets into actionable insights that support strategic decision-making and improve patient outcomes.
 
+When I'm not immersed in data science and predictive modeling, I find joy in music. I play the piano and spend time in my personal recording studio, where I write and produce original compositions. Music fuels my creativity and sharpens my storytelling—whether through sound or data, I’m always exploring new ways to connect, express, and inspire.
+
 When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
