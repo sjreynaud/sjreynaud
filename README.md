@@ -1,4 +1,4 @@
-## Hey everyone, my name is Sidney 👋
+## Hey everyone, I'm Sidney 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
