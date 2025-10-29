@@ -14,11 +14,7 @@
 
 ## 🚀 About Me 
 
-I'm a results-driven data scientist passionate about transforming raw data into actionable insights that advance healthcare innovation. With a B.S. in Analytics from Purdue Global and an M.S. in Applied Data Analytics focused on AWS Cloud Technologies, I'm now preparing for Ph.D. studies in Data Science to deepen my research impact. My recent project on breast cancer survival applied end-to-end predictive modeling and LIME interpretability across genomic and clinical data from 2,000 patients delivering reproducible, privacy-conscious insights for clinical stakeholders. Looking ahead, I’m expanding intoYou specialize in transforming complex healthcare data especially genomic and clinical datasets into actionable insights that support strategic decision-making and improve patient outcomes. combining statistical rigor with stakeholder-focused storytelling to drive meaningful outcomes.
-
-My focus is specialize in transforming complex healthcare data especially genomic and clinical datasets into actionable insights that support strategic decision-making and improve patient outcomes.
-
-When I'm not immersed in data science and predictive modeling, I find joy in music. I play the piano and spend time in my personal recording studio, where I write and produce original compositions. Music fuels my creativity and sharpens my storytelling—whether through sound or data, I’m always exploring new ways to connect, express, and inspire.
+I’m Sidney, a data scientist blending 10+ years of lab operations with advanced analytics to build reproducible, stakeholder-focused solutions. My GitHub reflects a hands-on approach to clinical modeling—leveraging Python, AWS, SHAP/LIME, and dashboarding tools like Tableau and Power BI to explore survival outcomes, psychiatric patterns, and developmental trajectories. I prioritize clarity, version control, and interpretability across every project, from ETL pipelines to visual storytelling, with a focus on making healthcare data both transparent and actionable.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
