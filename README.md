@@ -14,7 +14,7 @@
 
 ## 🚀 About Me 
 
-I’m Sidney, a data scientist blending 10+ years of lab operations with advanced analytics to build reproducible, stakeholder-focused solutions. My GitHub reflects a hands-on approach to clinical modeling—leveraging Python, AWS, SHAP/LIME, and dashboarding tools like Tableau and Power BI to explore survival outcomes, psychiatric patterns, and developmental trajectories. I prioritize clarity, version control, and interpretability across every project, from ETL pipelines to visual storytelling, with a focus on making healthcare data both transparent and actionable.
+I’m Sidney, a data scientist blending 10+ years of lab operations with advanced analytics to build reproducible, stakeholder-focused solutions. My GitHub reflects a hands-on approach to clinical modeling leveraging Python, AWS, SHAP/LIME, and dashboarding tools like Tableau and Power BI to explore survival outcomes, psychiatric patterns, and developmental trajectories. I prioritize clarity, version control, and interpretability across every project, from ETL pipelines to visual storytelling, with a focus on making healthcare data both transparent and actionable.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
