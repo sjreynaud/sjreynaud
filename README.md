@@ -27,8 +27,8 @@ At the heart of everything I do is the joy of discovery, whether it’s a new in
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Schizophrenia Pipeline :** Building a fully modular clinical‑analytics workflow to explore symptom patterns, treatment response, and long‑term outcome prediction using machine learning and transparent model interpretation.  
+- **Bipolar Disorder Research:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
