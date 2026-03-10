@@ -22,7 +22,7 @@ Outside of research, music is my creative anchor. I love spending time in my rec
 At the heart of everything I do is the joy of discovery, whether it’s a new insight in a dataset or a new melody in the studio.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](sjreynaud.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
