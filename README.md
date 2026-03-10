@@ -28,7 +28,11 @@ At the heart of everything I do is the joy of discovery, whether it’s a new in
 ## 🔭 What I'm Currently Working On 
 
 - **Schizophrenia Pipeline :** Building a fully modular clinical‑analytics workflow to explore symptom patterns, treatment response, and long‑term outcome prediction using machine learning and transparent model interpretation.  
-- **Bipolar Disorder Research:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Bipolar Disorder Research:** Developing a structured pipeline to analyze mood‑episode trajectories, medication patterns, and risk factors associated with relapse, with a focus on reproducibility and clinical interpretability.
+- **Autism Spectrum Analytics:** Investigating developmental, behavioral, and clinical markers across ASD datasets, organizing multi‑table structures, and designing workflows that support early‑identification research..
+- **Lymph Node Cancer Modeling:** Constructing predictive models to analyze lymph‑node involvement, survival outcomes, and staging patterns, supported by SHAP‑based interpretability and clinician‑ready dashboards..
+
+
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
