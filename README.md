@@ -33,12 +33,12 @@ At the heart of everything I do is the joy of discovery, whether it’s a new in
 - **Lymph Node Cancer Modeling:** Constructing predictive models to analyze lymph‑node involvement, survival outcomes, and staging patterns, supported by SHAP‑based interpretability and clinician‑ready dashboards..
 
 
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Advanced Clinical Machine Learning Pipelines** — expanding modular, reproducible workflows for oncology, psychiatric, and kidney disease prediction models.
+- **Cloud Scale Data Engineering** — optimizing ETL, warehousing, and analytics using platforms like BigQuery, Snowflake, and distributed Python workflows.
 
 ## 🛠️ Technical Skillset
 
