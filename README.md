@@ -16,9 +16,9 @@
 ## 🚀 About Me 
 I’m a clinical data scientist who thrives on transforming complex healthcare data into clear, actionable insights. Whether I’m modeling cancer survival, analyzing kidney disease progression, or building reproducible research pipelines, I’m driven by a commitment to clarity, transparency, and meaningful impact. I enjoy taking messy clinical datasets and shaping them into structured workflows, interpretable machine learning models, and dashboards that clinicians can trust.
 
-My work blends technical depth with thoughtful communication—using Python, SHAP, and modern visualization tools to make advanced analytics understandable for real-world decision‑makers. I take pride in designing workflows that are clean, modular, and future‑proof, ensuring that anyone who picks up the project can follow the logic with confidence.
+My work blends technical depth with thoughtful communication using Python, SHAP, and modern visualization tools to make advanced analytics understandable for real-world decision‑makers. I take pride in designing workflows that are clean, modular, and future‑proof, ensuring that anyone who picks up the project can follow the logic with confidence.
 
-Outside of research, music is my creative anchor. I love spending time in my recording studio, producing tracks, experimenting with sound, and getting lost in the process of building something from nothing. Playing the piano gives me the same sense of flow and focus that I bring to my analytical work—it’s where precision meets expression.
+Outside of research, music is my creative anchor. I love spending time in my recording studio, producing tracks, experimenting with sound, and getting lost in the process of building something from nothing. Playing the piano gives me the same sense of flow and focus that I bring to my analytical work it’s where precision meets expression.
 
 At the heart of everything I do is the joy of discovery, whether it’s a new insight in a dataset or a new melody in the studio.
 
