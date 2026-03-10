@@ -14,11 +14,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a clinical data scientist who thrives on transforming complex healthcare data into clear, actionable insights. Whether I’m modeling cancer survival, analyzing kidney disease progression, or building reproducible research pipelines, I’m driven by a commitment to clarity, transparency, and meaningful impact. I enjoy taking messy clinical datasets and shaping them into structured workflows, interpretable machine learning models, and dashboards that clinicians can trust.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My work blends technical depth with thoughtful communication—using Python, SHAP, and modern visualization tools to make advanced analytics understandable for real-world decision‑makers. I take pride in designing workflows that are clean, modular, and future‑proof, ensuring that anyone who picks up the project can follow the logic with confidence.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Outside of research, music is my creative anchor. I love spending time in my recording studio, producing tracks, experimenting with sound, and getting lost in the process of building something from nothing. Playing the piano gives me the same sense of flow and focus that I bring to my analytical work—it’s where precision meets expression.
+
+At the heart of everything I do is the joy of discovery, whether it’s a new insight in a dataset or a new melody in the studio.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://github.com/sjreynaud/sjreynaud.github.io)
