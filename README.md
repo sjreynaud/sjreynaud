@@ -19,7 +19,7 @@ My work blends technical depth with thoughtful communication using Python, SHAP,
 
 Outside of research, music is my creative anchor. I love spending time in my recording studio, producing tracks, experimenting with sound, and getting lost in the process of building something from nothing. Playing the piano gives me the same sense of flow and focus that I bring to my analytical work it’s where precision meets expression.
 
-At the heart of everything I do is the joy of discovery, whether it’s a new insight in a dataset or a new melody in the studio.
+What drives my work is the thrill of discovery—whether it’s uncovering a meaningful pattern in clinical data or shaping a new idea in the studio.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
