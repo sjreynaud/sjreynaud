@@ -22,7 +22,7 @@ Outside of research, music is my creative anchor. I love spending time in my rec
 What drives my work is the thrill of discovery—whether it’s uncovering a meaningful pattern in clinical data or shaping a new idea in the studio.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://sjreynaud.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/sjreynaud)
       
 ## 🔭 What I'm Currently Working On 
 
