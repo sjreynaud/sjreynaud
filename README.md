@@ -25,7 +25,7 @@ What drives my work is the thrill of discovery—whether it’s uncovering a mea
 ### [🏆 My Portfolio](https://sjreynaud.github.io/)
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 My Projects](https://sjreynaud.github.io/projects)
+### [🏆 My Projects](https://sjreynaud.github.io/projects.html)
 
       
 ## 🔭 What I'm Currently Working On 
